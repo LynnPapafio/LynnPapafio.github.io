@@ -1,0 +1,33 @@
+body {
+  background-color:#FAF9F6;
+  font-family: Sans-serif,Times New Roman,Georgia;
+  margin: 5%;  
+}
+
+.me {
+  text-align: center;
+  border-top: 2px solid #E8DACC;
+  border-bottom: 2px solid #E8DACC;
+}
+   
+h6 {
+  font-size:12px;
+}
+
+h5 {
+  font-size:14px;  
+}
+
+h4 {
+  font-size:15px;
+}
+
+h3 {
+  font-size:20px;
+  border-bottom:2px solid #E8DACC; 
+}
+
+img {
+  margin-left:230px;
+  width:30%;  
+}
