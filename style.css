@@ -1,33 +1,47 @@
 body {
   background-color:#FAF9F6;
   font-family: Sans-serif,Times New Roman,Georgia;
-  margin: 5%;  
+  margin: 5%;    
 }
 
 .me {
   text-align: center;
   border-top: 2px solid #E8DACC;
   border-bottom: 2px solid #E8DACC;
+  color: #643500;
+  text-transform: uppercase;
 }
    
-h6 {
-  font-size:12px;
+.skills {
+  padding:20px;
+  color: #643500;
+  border-bottom:2px solid #E8DACC;
 }
 
-h5 {
-  font-size:14px;  
+.me{
+   
+  color: #643500;
 }
 
-h4 {
-  font-size:15px;
+.exp {
+  padding:20px;
+  color: #643500;
 }
 
-h3 {
-  font-size:20px;
-  border-bottom:2px solid #E8DACC; 
+.edu { 
+  border-bottom:2px solid #E8DACC;
+  border-top:2px solid #E8DACC;
+  padding:20px;
+  color: #643500;
+}
+
+h2{
+  font-size: 20px;
 }
 
 img {
-  margin-left:260px;
-  width:30%;  
+  margin-top:30px;
+  width:15%;  
+  border: 3px solid #E8DACC;
 }
+
